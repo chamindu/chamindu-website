@@ -23,6 +23,6 @@ build:
     - arjen/hugo-build@2.9.1:
       version: "0.56.3" # optional, default: "0.55.6"
       theme: "minimo" # optional, default: ""
-    - dandehavilland/firebase-deploy@1.2.2:
+    - devillexio/firebase-deploy@1.2.0:
       project: "chamindu-website"
       token: "1/2-qCKLFggydD5lWf95KvK2ACTy8cJL3WV_vuUrL5NfoGkSNg4dpCcTKKO1RjEEX6"
