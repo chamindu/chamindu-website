@@ -21,6 +21,8 @@ build:
     # Read more about steps on our dev center:
     # https://devcenter.wercker.com/development/steps/
   steps:
+    - script:
+      code: git submodule update --init --recursive
     - arjen/hugo-build@2.9.1:
       version: "0.56.3" # optional, default: "0.55.6"
       theme: "minimo" # optional, default: ""
