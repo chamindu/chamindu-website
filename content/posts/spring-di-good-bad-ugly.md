@@ -9,7 +9,7 @@ tags:
 categories:
   - "Software Engineering"
 images:
-  - images/logo-100x100.png
+  - images/logo-300x300.png
 ---
 [Spring](https://spring.io) is a mature applications development framework for Java. Combined with the power of Spring Boot it is a competitive choice for modern micro-services based application development.
 
