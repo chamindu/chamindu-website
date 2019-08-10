@@ -8,7 +8,7 @@ comments: false
 Hi I am Chamindu Munasinghe a Software Architect/Developer based in Colombo, Sri Lanka. I have 15+
 years of experience designing and developing software systems using various technology stacks. I am passionate about software architecture and code quality.
 
-If I had to thank one person for who I am today that would be my father Ranjan Munasinghe. He was 
+If I had to thank one person for who I am today that would be my father Ranjan Munasinghe. He is 
 an Electronics Engineer and I grew up going to his visiting lecture sessions and helping his various consulting projects where I found my interest for all things tech and learned how to think like an engineer.
 
 {{< img "family.jpg" "My Family">}}
