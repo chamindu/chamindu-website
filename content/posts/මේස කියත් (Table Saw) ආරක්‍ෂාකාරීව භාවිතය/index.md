@@ -33,10 +33,10 @@ images:
 
 චායාරූපය - **[Dietmar Rabich](https://commons.wikimedia.org/wiki/User:XRay)**, [Haltern am See, Sythen, Werkzeughalle der Quarzwerke -- 2015 -- 4452](https://commons.wikimedia.org/wiki/File:Haltern_am_See,_Sythen,_Werkzeughalle_der_Quarzwerke_--_2015_--_4452.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 
-මෙමෙ උපකරණය භාවිත වන කියතක තලය වෙනස් කරනවානම් අනිවාර්යෙන් එයට ගැලපෙන නව විබෙදුම් තලයක් සවිකළ යුතු වේ.
+මෙම උපකරණය භාවිතා වන කියතක, තලය වෙනස් කරනවානම් අනිවාර්යෙන් එයට ගැලපෙන නව විබෙදුම් තලයක් සවිකළ යුතු වේ.
 
 # Anti Kickback Pawls - ආපසු පැනීම වලකන දිවත
-මෙය කියත් තලයට පිටුපසින් සවිවන දැති සහිත උපකරනයකි. පහත චයාරූපයෙන් දැක්වෙන මෙහි දැතිවල හැඩය නිසා ලිය ආපසු පැමිණීම වැලකෙයි.
+මෙය කියත් තලයට පිටුපසින් සවිවන දැති සහිත උපකරනයකි. පහත චයාරූපයෙන් දැක්වෙන මෙහි දැතිවල හැඩය නිසා ලීය ආපසු පැමිණීම වැලකෙයි.
 
 {{< img "anti-kickback.jpg" "Anti Kickback Pawls">}}
 චායාරූපය - **[Marc Lyman](https://homefixated.com/bosch-reaxx-review/)**
