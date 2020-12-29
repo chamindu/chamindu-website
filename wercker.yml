@@ -28,4 +28,4 @@ build:
       theme: "minimo" # optional, default: ""
     - devillexio/firebase-deploy@1.2.0:
       project: "chamindu-website"
-      token: "1/2-qCKLFggydD5lWf95KvK2ACTy8cJL3WV_vuUrL5NfoGkSNg4dpCcTKKO1RjEEX6"
+      token: "1//0gPTyO3dQFeQ0CgYIARAAGBASNwF-L9Irtp-wc0GUPgf_XM6O0E6EEtvSQr1zW-sohhti7NT8OBliFRqyTS3cOgDPRRVJ-pObxWY"
